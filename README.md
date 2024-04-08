@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @DongVanCong-HG-IT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, I'm @DongVanCong-HG-IT
 
-<!---
-DongVanCong-HG-IT/DongVanCong-HG-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in web development, data science, and machine learning.
+
+🌱 Currently, I'm learning about new technologies like AngularJS and TensorFlow.
+
+💞️ I'm looking to collaborate on open-source projects related to artificial intelligence and web development.
+
+📫 You can reach me via email: dongvancong24@gmail.com
+
+😄 My pronouns are: he/him
+
+⚡ Fun fact: I have a hobby of baking, and I often experiment with new recipes on weekends.
